@@ -75,4 +75,4 @@ Encrypted and original file deleted: test.txt
 
 ## License
 
-This project is open under the MIT License.
+MIT License
